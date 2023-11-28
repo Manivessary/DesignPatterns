@@ -1,0 +1,6 @@
+#include "TutorialConfig.h"
+#include "singleton/singleton.h"
+#include "singleton/singletonClient.h"
+#include "factory/factory_method/hr_1/hr_1_include.h"
+#include "factory/factory_method/hr_2/hr_2_include.h"
+#include "prototype/prototype_test.h" 
